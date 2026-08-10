@@ -5,7 +5,7 @@
   Try "Gradient Glow" or "Synthwave" theme with text "Minahil Shah — Frontend Dev & Gen AI Builder"
   Paste the generated image URL below, replacing the placeholder
 -->
-<img src="https://your-generated-banner-url-here.svg" alt="banner" width="100%" />
+<img src="https://github.com/Minahyl/Minahyl/blob/main/header-dark.png?raw=true" />
 
 <h1>Hi, I'm Minahil 👋</h1>
 <h3>CS Grad · Frontend Developer · Gen AI Builder</h3>
