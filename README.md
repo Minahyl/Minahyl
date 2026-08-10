@@ -7,8 +7,8 @@
 -->
 <img src="https://github.com/Minahyl/Minahyl/blob/main/header-dark.png?raw=true" />
 
-<h1>Hi, I'm Minahil 👋</h1>
-<h3>CS Grad · Frontend Developer · Gen AI Builder</h3>
+<h1>Hi, Myself Minahil 👋</h1>
+<h3> Full Stack Developer Enthusiast | Gen AI Trainee - 103 </h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Now+building+RAG+Chatbots+end-to-end;Frontend+Dev+exploring+Gen+AI;Next.js+%2B+FastAPI+%2B+Azure+OpenAI" alt="Typing SVG" />
 
