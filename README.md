@@ -54,34 +54,40 @@ Next.js/TailwindCSS frontend.
 
 <br/>
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🤖 Gen AI — RAG Chatbots (Training Projects)
+
 Built while training in Gen AI 103, using Microsoft Azure — backend & frontend both developed by me.
 
-| Project | Description |
-|---|---|
-| 🧠 **[RAG Chatbot](https://github.com/Minahyl/rag-chatbot)** | Retrieval-Augmented chatbot on Microsoft Azure — Python FastAPI backend, Next.js + TailwindCSS + TypeScript frontend |
-| 💬 **[Demo Chat App](https://github.com/Minahyl/demo-chat-app)** | Conversational demo chat application built with Microsoft Azure |
-
-### 💜 Loveable Builds
-Designed and shipped using Loveable.
-
-| Project | Description |
-|---|---|
-| 🤝 **[Tiny Talkie Friend](https://github.com/Minahyl/tiny-talkie-friend)** | AI companion-style chat experience, built end-to-end with Loveable |
-| ✨ **[Spark Digital Services](https://github.com/Minahyl/sparkdigitalservices)** | Full business/agency website, built & customized with Loveable |
-
-### ⚛️ React Projects
-| Project | Description |
-|---|---|
-| 💼 **[Minahil Portfolio](https://github.com/Minahyl/minahil-portfolio)** | Personal portfolio — designed in Figma AI, then customized & built in React |
-| 🔁 **[UchloClone](https://github.com/Minahyl/UchloClone)** | UI clone built from scratch in React |
+| Project                                                          | Description                                                                                                          |
+| ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 🧠 **[RAG Chatbot](https://github.com/Minahyl/rag-chatbot)**     | Retrieval-Augmented chatbot on Microsoft Azure — Python FastAPI backend, Next.js + TailwindCSS + TypeScript frontend |
+| 💬 **[Demo Chat App](https://github.com/Minahyl/demo-chat-app)** | Conversational demo chat application built with Microsoft Azure                                                      |
 
 ### 🌐 Full-Stack Web Development
-| Project | Description |
-|---|---|
-| 🔗 **[URL Shortener](https://github.com/Minahyl/url-shortener)** | Full-stack link shortener — Next.js + TailwindCSS + TypeScript frontend, Python FastAPI backend, with custom aliases, click tracking & history |
+
+| Project                                                          | Description                                                                                                                                                                             |
+| ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 📋 **[TaskFlow](YOUR-TASKFLOW-REPO-LINK)**                       | Full-stack task management application with user authentication, JWT authorization, task CRUD operations, search, filtering, Next.js frontend, FastAPI backend, and PostgreSQL database |
+| 🔗 **[URL Shortener](https://github.com/Minahyl/url-shortener)** | Full-stack link shortener — Next.js + TailwindCSS + TypeScript frontend, Python FastAPI backend, with custom aliases, click tracking & history                                          |
+
+### 💜 Loveable Builds
+
+Designed and shipped using Loveable.
+
+| Project                                                                         | Description                                                        |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 🤝 **[Tiny Talkie Friend](https://github.com/Minahyl/tiny-talkie-friend)**      | AI companion-style chat experience, built end-to-end with Loveable |
+| ✨ **[Spark Digital Services](https://github.com/Minahyl/sparkdigitalservices)** | Full business/agency website, built & customized with Loveable     |
+
+### ⚛️ React Projects
+
+| Project                                                                  | Description                                                                 |
+| ------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
+| 💼 **[Minahil Portfolio](https://github.com/Minahyl/minahil-portfolio)** | Personal portfolio — designed in Figma AI, then customized & built in React |
+| 🔁 **[UchloClone](https://github.com/Minahyl/UchloClone)**               | UI clone built from scratch in React                                        |
+
 
 <br/>
 
