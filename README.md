@@ -69,7 +69,7 @@ Currently, I'm training in **Gen AI 103**, where I'm learning to build AI applic
 
 | Project                                                                                        | Description                                                                                                                    |
 | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 🧠 **[Brain Tumor Detection System](https://github.com/Minahyl/brain-tumor-detection-system)** | AI-powered brain MRI classification system using EfficientNetB0, TensorFlow/Keras, FastAPI, Next.js, TypeScript & Tailwind CSS |
+| 🧠 **[Brain Tumor Detection System](https://github.com/Minahyl/brain-tumor-detection-system)** | AI-powered brain MRI classification system using EfficientNetB0, TensorFlow/Keras, Grad-CAM Heatmap Visualization, FastAPI, Next.js, TypeScript & Tailwind CSS |
 | 🤖 **[RAG Chatbot](https://github.com/Minahyl/rag-chatbot)**                                   | Retrieval-Augmented Generation chatbot built with Microsoft Azure, Python FastAPI backend, and Next.js + TailwindCSS frontend  |
 | 💬 **[Demo Chat App](https://github.com/Minahyl/demo-chat-app)**                               | Conversational AI demo application built while exploring Microsoft Azure AI capabilities                                       |
 
